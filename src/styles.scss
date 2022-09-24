@@ -1,0 +1,233 @@
+$primaryColorLight: #4f51bb;
+$primaryColorLightHover: #ebecff;
+$teritiaryColorLight: #c4c41f;
+$white: #ffffff;
+$offwhite: #f5f4f4;
+$black: #000000;
+
+.login {
+    width: 25em;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    form {
+        input {
+            margin: 7% 0;
+            padding: 5%;
+            width: stretch;
+        }
+    }
+}
+
+.loginForm {
+    margin: 5%;
+    width: 100%;
+}
+
+.loginBtn {
+    margin: auto;
+}
+
+.loginLogo {
+    margin: 5%;
+}
+button {
+    background: $primaryColorLight;
+    color: $white;
+    margin: auto 5px;
+    border: none;
+    padding: 1em 5em;
+    border-radius: 0.5em;
+    cursor: pointer;
+}
+.card {
+    border-top: 3px solid $primaryColorLight;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background: $primaryColorLightHover;
+    flex-direction: column;
+    padding: 5% 10%;
+    border-radius: 3px;
+    margin: 4% 1%;
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    input {
+        background: $white;
+        margin: 2%;
+        padding: 3% 5%;
+        border: none;
+        border-radius: 5px;
+        color: $black;
+    }
+
+    .submit {
+        width: fit-content;
+        margin: 5%;
+    }
+}
+
+.Card {
+    border-top: 3px solid $primaryColorLight;
+    background: $primaryColorLightHover;
+    padding: 5%;
+    border-radius: 3px;
+    margin: 4% 1%;
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    input {
+        background: $white;
+        margin: 2%;
+        padding: 3% 5%;
+        border: none;
+        border-radius: 5px;
+        color: $black;
+    }
+
+    .submit {
+        width: fit-content;
+        margin: 5%;
+    }
+}
+
+.tableImg {
+    border-radius: 5em;
+    width: 4em;
+}
+
+.Header {
+    display: flex;
+    position: fixed;
+    justify-content: space-between;
+    align-items: center;
+    top: 0;
+    width: 100vw;
+    height: 90px;
+    border-top: 3px solid $primaryColorLight;
+    background: $primaryColorLightHover;
+    padding: 2em;
+    .logo {
+        font-size: 1.4em;
+    }
+    button {
+        padding: 1em;
+        margin: 0 1em 0 0;
+    }
+}
+
+.Pages {
+    margin-top: 120px;
+    min-height: 100vh;
+    margin-left: 250px;
+}
+
+.sideNav {
+    margin-top: 90px;
+    width: 250px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    background: $primaryColorLightHover;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    transition: 0.4s ease;
+    font-weight: 200;
+    padding-bottom: 170px;
+    &::-webkit-scrollbar {
+        display: none;
+    }
+    ul {
+        list-style: none;
+        margin: 0;
+        li {
+            margin: 0;
+            padding: 8px 11px;
+            display: block;
+            font-size: 1.2em;
+            line-height: 2em;
+            letter-spacing: 1px;
+            transition: 0.3s ease;
+            cursor: pointer;
+            div {
+                display: flex;
+                color: #000000;
+            }
+            .icons {
+                width: 40px;
+                margin: 0% 5%;
+                margin: 0 1em;
+            }
+        }
+    }
+    .active {
+        li {
+            background: $white;
+            border-left: 3px solid $primaryColorLight;
+        }
+    }
+}
+
+.closeBtn {
+    padding: 3%;
+}
+.backBtn {
+    padding: 1%;
+    margin-left: 2%;
+}
+.modal {
+    form {
+        display: flex;
+        flex-direction: column;
+        padding: 3%;
+    }
+    label {
+        margin: 1em;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        input {
+            background: $white;
+            margin: 2%;
+            padding: 3% 5%;
+            border: none;
+            border-radius: 5px;
+            color: $black;
+        }
+    }
+}
+
+.profileBtn {
+    margin: 5px;
+}
+
+.dangerBanner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #bb2124;
+    padding: 2%;
+    border-radius: 5px;
+    color: #ebecff;
+}
+
+.Footer {
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: space-around;
+    background: $primaryColorLightHover;
+    padding: 0.3em;
+    border-radius: 3px;
+    margin: 0;
+    bottom: 0;
+}

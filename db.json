@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "first_name": "Jarvis",
+      "last_name": "Herzog",
+      "email": "Rosemarie63@gmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/871.jpg",
+      "address": "Bahringermouth",
+      "dob": "1947-02-17T21:12:22.997Z",
+      "phone": "1-889-788-9217 x7148",
+      "password": "NapJdliZO7f_6n1",
+      "username": "Jeromy.Waelchi",
+      "id": 1
+    },
+    {
+      "first_name": "Nyasia",
+      "last_name": "Corkery",
+      "email": "Ottilie.Hilpert@gmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1063.jpg",
+      "address": "Pasco",
+      "dob": "1997-04-09T09:09:53.202Z",
+      "phone": "(308) 923-5872 x41019",
+      "password": "CabMFzI1eeLYx6U",
+      "username": "Jackeline_DuBuque",
+      "id": 2
+    },
+    {
+      "first_name": "Andy",
+      "last_name": "Ward",
+      "email": "Tomasa79@yahoo.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/899.jpg",
+      "address": "North Seth",
+      "dob": "1964-08-21T02:31:07.152Z",
+      "phone": "1-594-668-9023 x394",
+      "password": "LMECLHzer5NkOya",
+      "username": "Nella_Koss53",
+      "id": 3
+    },
+    {
+      "first_name": "Filomena",
+      "last_name": "Gutkowski",
+      "email": "Clara_Roob99@gmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/859.jpg",
+      "address": "East Russ",
+      "dob": "1987-03-17T04:15:23.786Z",
+      "phone": "(202) 899-6666 x96533",
+      "password": "8P_fP1AKtRCx6Rx",
+      "username": "Amanda65",
+      "id": 4
+    },
+    {
+      "first_name": "Stephon",
+      "last_name": "Carter",
+      "email": "Ursula64@gmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/926.jpg",
+      "address": "Ceceliamouth",
+      "dob": "1988-05-28T11:27:33.518Z",
+      "phone": "218.760.1326 x03577",
+      "password": "w_mQiP5xURFAHAt",
+      "username": "Wava_Kreiger75",
+      "id": 5
+    },
+    {
+      "first_name": "Broderick",
+      "last_name": "Goyette",
+      "email": "Joan29@gmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/407.jpg",
+      "address": "Cornellburgh",
+      "dob": "1985-02-15T20:00:29.304Z",
+      "phone": "1-219-845-0076",
+      "password": "GfJ6Zq6MBiQGsHA",
+      "username": "Vivianne38",
+      "id": 6
+    },
+    {
+      "first_name": "Casimir",
+      "last_name": "Smitham",
+      "email": "Jerald.Kling45@hotmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/883.jpg",
+      "address": "Alfredamouth",
+      "dob": "2000-11-25T09:52:31.900Z",
+      "phone": "306-772-2681 x385",
+      "password": "DWYIEhHzv0IvTne",
+      "username": "Keegan.Sipes",
+      "id": 7
+    },
+    {
+      "first_name": "Theresa",
+      "last_name": "Harvey",
+      "email": "Jaren27@gmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/649.jpg",
+      "address": "Anastasiahaven",
+      "dob": "1944-11-17T14:37:20.962Z",
+      "phone": "429.307.5177 x1716",
+      "password": "wMjXXIMIetTcnCG",
+      "username": "Melany47",
+      "id": 8
+    }
+  ]
+}
