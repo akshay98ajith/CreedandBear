@@ -22,35 +22,41 @@ const Login = () => {
     }
   };
   return (
-    <div className="login">
-      <div className="card">
-        <form className="loginForm" onSubmit={handleSubmit(onSubmit)}>
-          <label>
-            <span>Username</span>
-            <input
-              placeholder={users[1].username}
-              type="text"
-              {...register("username", { requierd: true })}
-              required
-            />
-          </label>
-          <label>
-            <span>Password</span>
-            <input
-              placeholder={users[1].password}
-              type="password"
-              {...register("password", { requierd: true })}
-              required
-            />
-          </label>
-          <div className="tac">
-            <button className="loginBtn" type="submit">
-              Submit
-            </button>
-          </div>
-        </form>
+    <>
+      <div className="login">
+        <div className="card">
+          <form className="loginForm" onSubmit={handleSubmit(onSubmit)}>
+            <label>
+              <span>Username</span>
+              <input
+                placeholder={users[1].username}
+                type="text"
+                {...register("username", { requierd: true })}
+                required
+              />
+            </label>
+            <label>
+              <span>Password</span>
+              <input
+                placeholder={users[1].password}
+                type="password"
+                {...register("password", { requierd: true })}
+                required
+              />
+            </label>
+            <div className="tac">
+              <button className="loginBtn" type="submit">
+                Submit
+              </button>
+            </div>
+          </form>
+        </div>
       </div>
-    </div>
+      <div className="credentials">
+        <div>username: superuser</div>
+        <div>password: superuser</div>
+      </div>
+    </>
   );
 };
 
