@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/CreedandBear/static/css/main.63736c6d.css",
-    "main.js": "/CreedandBear/static/js/main.0a302c19.js",
-    "static/js/129.ae5e9bee.chunk.js": "/CreedandBear/static/js/129.ae5e9bee.chunk.js",
+    "main.css": "/CreedandBear/static/css/main.ed946329.css",
+    "main.js": "/CreedandBear/static/js/main.8c526e26.js",
+    "static/js/129.4b7ad255.chunk.js": "/CreedandBear/static/js/129.4b7ad255.chunk.js",
     "static/js/2.1d457c02.chunk.js": "/CreedandBear/static/js/2.1d457c02.chunk.js",
     "static/js/191.435e474a.chunk.js": "/CreedandBear/static/js/191.435e474a.chunk.js",
     "static/js/16.214f4333.chunk.js": "/CreedandBear/static/js/16.214f4333.chunk.js",
@@ -16,9 +16,9 @@
     "static/media/mail.svg": "/CreedandBear/static/media/mail.8ff75b9df80c477b16f4981b33e1c31f.svg",
     "static/media/linkedin.svg": "/CreedandBear/static/media/linkedin.e48d7f104ed189a87ff68db28351c667.svg",
     "index.html": "/CreedandBear/index.html",
-    "main.63736c6d.css.map": "/CreedandBear/static/css/main.63736c6d.css.map",
-    "main.0a302c19.js.map": "/CreedandBear/static/js/main.0a302c19.js.map",
-    "129.ae5e9bee.chunk.js.map": "/CreedandBear/static/js/129.ae5e9bee.chunk.js.map",
+    "main.ed946329.css.map": "/CreedandBear/static/css/main.ed946329.css.map",
+    "main.8c526e26.js.map": "/CreedandBear/static/js/main.8c526e26.js.map",
+    "129.4b7ad255.chunk.js.map": "/CreedandBear/static/js/129.4b7ad255.chunk.js.map",
     "2.1d457c02.chunk.js.map": "/CreedandBear/static/js/2.1d457c02.chunk.js.map",
     "191.435e474a.chunk.js.map": "/CreedandBear/static/js/191.435e474a.chunk.js.map",
     "16.214f4333.chunk.js.map": "/CreedandBear/static/js/16.214f4333.chunk.js.map",
@@ -26,7 +26,7 @@
     "818.d68ab414.chunk.js.map": "/CreedandBear/static/js/818.d68ab414.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63736c6d.css",
-    "static/js/main.0a302c19.js"
+    "static/css/main.ed946329.css",
+    "static/js/main.8c526e26.js"
   ]
 }
